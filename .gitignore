@@ -1,0 +1,5 @@
+.env
+vendor/
+web/sites/default/files/
+*.log
+.DS_Store
